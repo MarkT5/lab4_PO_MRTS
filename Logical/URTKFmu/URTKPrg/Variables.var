@@ -1,0 +1,16 @@
+VAR
+	URTK1 : URTK := (0);
+	URTKView_0 : URTKView := (0);
+	urtk_out : URTK;
+	sensorX1 : USINT;
+	sensorX2 : USINT;
+	sensorY1 : USINT;
+	sensorY2 : USINT;
+	sensorZ1 : USINT;
+	sensorZ2 : USINT;
+	statesURTK : STATE_URTK;
+	fb_motor_z : FB_Motor;
+	fb_motor_y : FB_Motor;
+	fb_motor_x : FB_Motor;
+	fb_controller : FB_Controller;
+END_VAR

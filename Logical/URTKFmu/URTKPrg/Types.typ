@@ -1,0 +1,11 @@
+
+TYPE
+	STATE_URTK : 
+		(
+		ST_INIT,
+		ST_READY,
+		ST_HOME,
+		ST_STOP,
+		ST_MOVE
+		);
+END_TYPE
